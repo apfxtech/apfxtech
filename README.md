@@ -1,29 +1,27 @@
 # ApertureFox Technology
 
-Я системный программист и разработчик библиотек.
-Основные языки программирования — **C++** и **Python**.
-В основном занимаюсь низкоуровневой разработкой, оптимизацией, портированием проектов и созданием инфраструктурных решений.
+I build low-level software, libraries, and embedded systems with a focus on performance, portability, and practical tooling.
 
-## Flipper Zero
+![GitHub followers](https://img.shields.io/github/followers/apfxtech?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/apfxtech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=apfxtech&style=for-the-badge)
 
-### Games
+## About Me
 
-* **[Catacombs of the Damned!](https://github.com/apfxtech/FlipperCatacombs.git)**  
-  Трёхмерный dungeon crawler от первого лица с процедурными уровнями, боями с врагами и исследованием подземелий.
+- Main languages: `Python`, `C/C++`
+- Interests: classic operating systems, Unix environments, embedded development, portable device
+- Additional: neural networks and model optimization
 
-* **[Wolfenstein](https://github.com/apfxtech/FlipperWolfenstein.git)**  
-  Demake классического **Wolfenstein 3D** от id Software, воссоздающий оригинальный геймплей, уровни и атмосферу в упрощённом и компактном формате.  
+## Key Achievements
 
-* **[Arduventure](https://github.com/apfxtech/FlipperArduventure.git)**  
-  RPG-приключение, разворачивающееся в четырёх уникальных локациях, с системой прокачки персонажа, сбором ресурсов и возможными случайными боями во время исследования мира.
+- Developed **SkyPilot**: a library stack for autopilot development
+- Ported games to Flipper Zero:
+  [Catacombs of the Damned](https://github.com/apfxtech/FlipperCatacombs) | [Wolfenstein](https://github.com/apfxtech/FlipperWolfenstein) | [Arduventure](https://github.com/apfxtech/FlipperArduventure) | [Mystic Balloon](https://github.com/apfxtech/FlipperMysticBalloon) | [ArduGolf](https://github.com/apfxtech/FlipperGolf) | [ArduDriver](https://github.com/apfxtech/FlipperDrivin)
+- Write Flipper Zero applications: [FlipperATM](https://github.com/apfxtech/FlipperATM)
+- Publish micro-libraries such as [stream](https://github.com/apfxtech/stream) and [debug](https://github.com/apfxtech/debug) that promote consistent my programming standards
 
-* **[Mystic Balloon](https://github.com/apfxtech/FlipperMysticBalloon.git)**  
-  Простой fly-platformer, в котором персонаж перемещается по уровням, используя воздушные шары.
+## Open Source Focus
 
-* **[3d Golf](https://github.com/apfxtech/FlipperGolf.git)**
-  3D-игра в мини-гольф с отличной физикой мяча.
-
-## Meshtastic
-
-* **[Meshgram](https://github.com/apfxtech/MeshProject.git)**
-  Приложение для обмена сообщениями в условиях ограниченного или отсутствующего интернета, ориентированное на mesh-сети.
+- Game porting and optimization for constrained hardware
+- Embedded tooling and firmware ecosystem work
+- Networking communication experiments
