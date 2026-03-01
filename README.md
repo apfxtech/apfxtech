@@ -18,6 +18,7 @@ I build low-level software, libraries, and embedded systems with a focus on perf
 - Ported games to Flipper Zero:
  [Prince of Arabia](https://github.com/apfxtech/FlipperPrinceOfArabia) | [Catacombs of the Damned](https://github.com/apfxtech/FlipperCatacombs) | [Wolfenstein](https://github.com/apfxtech/FlipperWolfenstein) | [Arduventure](https://github.com/apfxtech/FlipperArduventure) | [Mystic Balloon](https://github.com/apfxtech/FlipperMysticBalloon) | [ArduGolf](https://github.com/apfxtech/FlipperGolf) | [ArduDriver](https://github.com/apfxtech/FlipperDrivin)
 - Write Flipper Zero applications: [FlipperATM](https://github.com/apfxtech/FlipperATM)
+- Write Flipper Zero game library: [arduboylib](https://github.com/apfxtech/arduboylib)
 - Publish micro-libraries such as [stream](https://github.com/apfxtech/stream) and [debug](https://github.com/apfxtech/debug) that promote consistent my programming standards
 
 ## Open Source Focus
