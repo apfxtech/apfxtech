@@ -16,7 +16,7 @@ I build low-level software, libraries, and embedded systems with a focus on perf
 
 - Developed **SkyPilot**: a library stack for autopilot development
 - Ported games to Flipper Zero:
-  [Catacombs of the Damned](https://github.com/apfxtech/FlipperCatacombs) | [Wolfenstein](https://github.com/apfxtech/FlipperWolfenstein) | [Arduventure](https://github.com/apfxtech/FlipperArduventure) | [Mystic Balloon](https://github.com/apfxtech/FlipperMysticBalloon) | [ArduGolf](https://github.com/apfxtech/FlipperGolf) | [ArduDriver](https://github.com/apfxtech/FlipperDrivin)
+ [Prince of Arabia](https://github.com/apfxtech/FlipperPrinceOfArabia) | [Catacombs of the Damned](https://github.com/apfxtech/FlipperCatacombs) | [Wolfenstein](https://github.com/apfxtech/FlipperWolfenstein) | [Arduventure](https://github.com/apfxtech/FlipperArduventure) | [Mystic Balloon](https://github.com/apfxtech/FlipperMysticBalloon) | [ArduGolf](https://github.com/apfxtech/FlipperGolf) | [ArduDriver](https://github.com/apfxtech/FlipperDrivin)
 - Write Flipper Zero applications: [FlipperATM](https://github.com/apfxtech/FlipperATM)
 - Publish micro-libraries such as [stream](https://github.com/apfxtech/stream) and [debug](https://github.com/apfxtech/debug) that promote consistent my programming standards
 
